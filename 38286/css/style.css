@@ -1,0 +1,13 @@
+p {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.wazne {
+    background-color: blue;
+}
+
+.opacity {
+    opacity: 0.5;
+}
