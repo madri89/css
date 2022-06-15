@@ -1,0 +1,39 @@
+body {
+    background-color: #686B57;
+}
+
+h1 {
+    background-color:#D9EA77;
+}
+
+h2 {
+    background-color: #5F6634;
+}
+
+h1+p {
+    background-color: #DFE6BA;
+}
+
+h2+p {
+    background-color: #ADB391;
+}
+
+#one {
+    color: #4A491F;
+}
+
+#two {
+    color:#E4E3AD;
+}
+
+#three {
+    color:#C9C855;
+}
+
+#four {
+    color:#4A4A35;
+}
+
+#five {
+    color:#96953F;
+}
