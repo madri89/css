@@ -10,7 +10,7 @@ p {
     color: #A0CFD2;
 }
 
-h1+h3+p {
+h1+h3 {
     color: #C9C455;
 }
 
